@@ -14,4 +14,3 @@ public class num2 {
             System.out.println("Привет! "+name);
         }
     }
-}
