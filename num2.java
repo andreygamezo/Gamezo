@@ -2,16 +2,16 @@ import java.util.Scanner;
  
  
 public class num2 {
-    private static final String Вячеслав = null;
+    private static final String Р’СЏС‡РµСЃР»Р°РІ = null;
 
 	public static void main(String[] args) {
-    String name = "Вячеслав";
+    String name = "Р’СЏС‡РµСЃР»Р°РІ";
     Scanner scan = new Scanner(System.in);
     
-    System.out.println("Введите Имя: ");
+    System.out.println("Р’РІРµРґРёС‚Рµ РРјСЏ: ");
     if(scan.hasNext(name)){
         
-            System.out.println("Привет! "+name);
+            System.out.println("РџСЂРёРІРµС‚! "+name);
         }
     }
 }
