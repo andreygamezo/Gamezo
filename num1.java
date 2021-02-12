@@ -5,10 +5,10 @@ public class num1 {
     public static void main(String[] args) {
            
         Scanner in = new Scanner(System.in);
-        System.out.print("Ведите число: ");
+        System.out.print("Р’РµРґРёС‚Рµ С‡РёСЃР»Рѕ: ");
         int num = in.nextInt();
           
-        System.out.printf("Привет ", num);
+        System.out.printf("РџСЂРёРІРµС‚ ", num);
         in.close();
     }
 }
